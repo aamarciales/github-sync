@@ -2,6 +2,14 @@
 
 All notable changes to this test fixture are documented here.
 
+## v1.3.0 - Automatic sync test
+
+### Added
+
+- Added a new release for testing Framer sync behavior.
+- Added a changelog entry to ensure the release points to a new commit.
+- Added QA coverage for automatic versus manual Framer re-import behavior.
+
 ## v1.2.0 - Stable changelog update
 
 ### Added
