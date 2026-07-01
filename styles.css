@@ -5,6 +5,7 @@
   --paper: #f7f4ef;
   --panel: #ffffff;
   --accent: #0f766e;
+  --accent-strong: #164e63;
   --line: #d8d2c8;
 }
 
@@ -79,7 +80,7 @@ h1 {
 
 .timeline article {
   padding: 20px;
-  border-left: 4px solid var(--accent);
+  border-left: 4px solid var(--accent-strong);
   background: rgba(255, 255, 255, 0.64);
 }
 
