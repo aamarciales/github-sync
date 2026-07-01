@@ -2,6 +2,18 @@
 
 All notable changes to this test fixture are documented here.
 
+## v1.2.0 - Stable changelog update
+
+### Added
+
+- Added the stable release note source for `v1.2.0`.
+- Added a new timeline item for the latest stable release.
+
+### Changed
+
+- Updated the current release display to show the latest stable version.
+- Expanded changelog content to provide richer Markdown import coverage.
+
 ## v1.1.0-beta - Beta update
 
 ### Added
