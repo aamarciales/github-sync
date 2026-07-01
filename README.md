@@ -1,4 +1,4 @@
-# GitHub Sync
+# Github Sync
 
 This public repository is a small static fixture for validating the Framer GitHub Releases plugin.
 
