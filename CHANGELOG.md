@@ -2,6 +2,14 @@
 
 All notable changes to this test fixture are documented here.
 
+## v1.4.0 - Zapier Webflow sync test
+
+### Added
+
+- Added Webflow CMS sync validation through Zapier.
+- Added duplicate prevention coverage with slug lookup.
+- Added release automation checks for the Zapier to Webflow workflow.
+
 ## v1.3.0 - Automatic sync test
 
 ### Added
@@ -40,3 +48,4 @@ All notable changes to this test fixture are documented here.
 - Created the static HTML landing page.
 - Added the base stylesheet.
 - Added the first Markdown release-notes file for GitHub Releases import testing.
+
